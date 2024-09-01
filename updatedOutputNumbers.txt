@@ -1,0 +1,10 @@
+Fancy numbers:
+
+All numbers that sum to the target pattern:
+ABAB pattern:
+ABBA pattern:
+AAAB pattern: 6662, 6668
+ABBB pattern: 5444, 7222
+AAAA pattern:
+AABA pattern:
+Series pattern: 6263, 6970, 7071

@@ -1,0 +1,9 @@
+Fancy numbers:
+
+ABAB pattern: 6868, 6969, 7070, 7171, 7272
+ABBA pattern: 6886, 6996, 7007, 7117, 7227
+AAAB pattern: 5559, 6662, 6664, 6668
+ABBB pattern: 5444, 6888, 6999, 7000, 7111, 7222
+AAAA pattern:
+AABA pattern:
+Series pattern: 6263, 6869, 6970, 7071, 7172, 7273
